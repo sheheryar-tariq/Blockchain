@@ -1,3 +1,9 @@
+
+# Name: M. Sheheryar Tariq
+# StudentID: 24819196
+
+# Run using streamlit run {filepath}
+
 import streamlit as st
 import hashlib
 import time
